@@ -1,22 +1,17 @@
 *Este repositorio es una plantilla para ser usada para documentar proyectos STEAM.*
 
-# [Nombre Proyecto STEAM]
+# InfraSense
 
 ## Descripción
-- [Agregar un párrafo con descripción del proyecto STEAM]
-- [Agregar una imagen o fotografía relevante al proyecto]
-- [Opcional: agregar el nombre del equipo]
+- Sistema IoT basado en ESP32 para monitorear la temperatura y apertura de puertas en cuartos de servidores, integrándose con Nagios para supervisión y alertas en tiempo real.
+
 
 *Nota:* Este proyecto se realiza durante el curso **Laboratorio STEAM+** de la
-tecnicatura **Redes y Software** del [**nombre del instituto**] de **UTU**.
+tecnicatura **Redes y Software** del **ITI** de **UTU**.
 
 ## Integrantes
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
-- [Nombre integrante 4]
-- [Nombre integrante 5]
-- [Opcional: agregar fotos o avatar para cada integrante]
+- Facundo Olivera
+
 
 ## Documentación
 - [Informe de Avance - Agosto 202x](documentacion/avance1.md)

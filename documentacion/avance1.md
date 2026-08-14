@@ -16,7 +16,7 @@ En el marco de la implementación de mejoras de automatización e infraestructur
   - Cotizar y adquirir los componentes listados en la casa de electrónica (ESP32, módulo DHT22, cables jumper, borneras/módulos de conexión).
 
 - **Imágenes o videos ilustrativos del avance:**
-  - *[Pendiente]*
+  - No aplica
 
 ## [x]/8/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
